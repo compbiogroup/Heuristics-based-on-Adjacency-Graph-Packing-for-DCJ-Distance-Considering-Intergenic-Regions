@@ -8,6 +8,10 @@ We also have the implementation of an 4/3-approximation algorithm for the dcj di
 
 Compile the code by running `make` and see the running options with `./dec --help`.
 
+## Database
+
+The folder `database` has files with simulated genomes used to test the heuristics.
+
 ## References
 
 <a id="1">[1]</a> 
