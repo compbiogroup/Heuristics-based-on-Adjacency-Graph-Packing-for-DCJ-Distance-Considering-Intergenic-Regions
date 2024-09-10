@@ -1,4 +1,4 @@
-# Heuristics for Adjacency Graph Packing Considering Intergenic Regions
+# Heuristics based on Adjacency Graph Packing for DCJ Distance Considering Intergenic Regions
 
 This repository has the implementation of two heuristics for the Adjacency Graph Packing problem considering intergenic regions. One (rand) tries to solve the problem by randomly generating cycle packings of the Adjacency Graph, constructed with best (there is an alternative decomposition implemented that randomly selects edges for the decomposition). The other is based on the Genetic Algorithm metaheuristic (ga).
 
